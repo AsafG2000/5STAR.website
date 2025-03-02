@@ -1,0 +1,50 @@
+/* Navbar gradient background */
+.navbar-gradient {
+    background: linear-gradient(45deg, #0d0d0d 0%, #0e0e0f 100%);
+}
+
+/* Center the header text */
+header h1 {
+    text-align: center;
+    margin: 20px 0;
+    font-family: 'Arial', sans-serif; /* Change this to your desired font */
+    font-size: 2.5em; /* Adjust the font size as needed */
+    color: #ffffff; /* Change the color if needed */
+}
+
+/* Additional custom styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #231b1b; /* Dark background color */
+    color: #ffffff; /* Light text color for readability */
+}
+
+main {
+    padding: 20px;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #1e1e1e; /* Slightly lighter dark color for footer */
+    color: #ffffff; /* Light text color for readability */
+}
+
+/* Dark theme for sections */
+section {
+    background-color: #2c2c2c; /* Dark background for sections */
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    color: #ffffff; /* Light text color for readability */
+}
+
+/* Dark theme for address */
+address {
+    background-color: #2c2c2c; /* Dark background for address */
+    padding: 10px;
+    border-radius: 8px;
+    color: #ffffff; /* Light text color for readability */
+}
