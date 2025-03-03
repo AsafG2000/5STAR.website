@@ -48,3 +48,6 @@ address {
     border-radius: 8px;
     color: #ffffff; /* Light text color for readability */
 }
+.first-carousel {
+    width: 700px;
+}
